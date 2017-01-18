@@ -1,6 +1,11 @@
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+Application asks the user for a their daily jogged hours and displays a total of hours logged for the week (7 days). The application gives the daily average hours jogged and also signifies what type of jogger they are based on the following total jogged hours:
+
+Amateur Jogger: Under 10 hours
+Dedicated Jogger: 10-20 hours
+Advanced Jogger: 20-40 hours
+Premium Jogger: 40+ hours
 
 ## Code Example
 
